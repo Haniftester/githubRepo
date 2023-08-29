@@ -12,6 +12,7 @@ public class Main {
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = Masum new project for github " + i);
+            System.out.println("this is new changes in first time"+ i);
         }
     }
 }
